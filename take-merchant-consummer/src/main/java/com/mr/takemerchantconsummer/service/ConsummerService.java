@@ -1,6 +1,6 @@
 package com.mr.takemerchantconsummer.service;
 
-import com.mr.takedomain.domain.Merchant;
+import com.mr.take_domain.domain.Merchant;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

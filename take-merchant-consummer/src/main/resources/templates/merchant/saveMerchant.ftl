@@ -12,7 +12,6 @@
     <link rel="stylesheet" type="text/css" href="webuploader-0.1.5/webuploader.css">
     <link href="webuploader-0.1.5/style.css" type="text/css" rel="stylesheet"/>
     <script type="text/javascript" src="js/public.js"></script>
-    <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/jqpublic.js"></script>
     <!--引入JS-->
     <script type="text/javascript" src="webuploader-0.1.5/webuploader.js"></script>

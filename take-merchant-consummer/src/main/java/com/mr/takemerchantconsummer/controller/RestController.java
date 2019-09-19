@@ -1,6 +1,6 @@
 package com.mr.takemerchantconsummer.controller;
 
-import com.mr.takedomain.domain.Merchant;
+import com.mr.take_domain.domain.Merchant;
 import com.mr.takemerchantconsummer.service.ConsummerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
