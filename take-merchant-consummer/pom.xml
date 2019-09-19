@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.mr</groupId>
-    <artifactId>take-merchant-provider</artifactId>
+    <artifactId>take-merchant-consummer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>take-merchant-provider</name>
+    <name>take-merchant-consummer</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
